@@ -1,1 +1,1 @@
-Solutions for the exercises in [How to Design Programs](https://htdp.org/) 2e.
+Exercise solutions for [How to Design Programs](https://htdp.org/) 2e 

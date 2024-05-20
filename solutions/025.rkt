@@ -29,4 +29,4 @@
 ; 6. "tall"
 ;
 ; Issue: Function returns "tall" when it should return "square".
-; Fix: Change the condition from >= to >.
+; Fix: Change the first condition from >= to >.
